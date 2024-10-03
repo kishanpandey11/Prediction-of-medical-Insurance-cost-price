@@ -1,6 +1,6 @@
 # Prediction-of-medical-Insurance-cost-price
 
-*Problem Statement:* Predicting insurance cost of people based on available data set features.
+#Problem Statement:# Predicting insurance cost of people based on available data set features.
 
 *Source:* Kaggle Dataset
 
