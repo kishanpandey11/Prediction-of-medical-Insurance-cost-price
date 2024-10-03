@@ -1,12 +1,12 @@
 # Prediction-of-medical-Insurance-cost-price
 
-#Problem Statement:# Predicting insurance cost of people based on available data set features.
+**Problem Statement:** Predicting insurance cost of people based on available data set features.
 
-*Source:* Kaggle Dataset
+**Source:** Kaggle Dataset
 
-*Data Set Information:* The dataset contains features like age of primary beneficiary, Body mass index, objective index of body weight, children, smoker, region etc.
+**Data Set Information:** The dataset contains features like age of primary beneficiary, Body mass index, objective index of body weight, children, smoker, region etc.
 
-*Model Building and Training:*
+**Model Building and Training:**
 
 This is a Regression dataset. We are building a Machine Learning model using Linear regression.
 Data Collection
